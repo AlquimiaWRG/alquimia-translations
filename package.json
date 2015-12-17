@@ -1,0 +1,15 @@
+{
+  "name": "alquimia-translations",
+  "version": "0.0.1",
+  "description": "Translations support for Angular, through angular-gettext.",
+  "dependencies": {
+    "alquimia-angular": "",
+    "grunt": "",
+    "grunt-angular-gettext": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauro Constantinescu",
+  "license": "ISC"
+}
