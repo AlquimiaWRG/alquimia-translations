@@ -5,8 +5,7 @@ module.exports = function(watchers) {
 
   grunt.task.init = function() {};
 
-  // We need to get the Grunt tasks from the module installed into alquimia-translations
-  grunt.loadTasks(process.cwd() + '/node_modules/alquimia-translations/node_modules/grunt-angular-gettext/tasks');
+  grunt.loadTasks(process.cwd() + '/node_modules/grunt-angular-gettext/tasks');
 
   grunt.initConfig({
     nggettext_extract: {
