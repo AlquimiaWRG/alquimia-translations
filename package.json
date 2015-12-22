@@ -1,6 +1,6 @@
 {
   "name": "alquimia-translations",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Translations support for Angular, through angular-gettext.",
   "dependencies": {
     "alquimia-angular": "",
